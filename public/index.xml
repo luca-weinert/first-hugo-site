@@ -9,6 +9,20 @@
     <lastBuildDate>Tue, 10 Feb 2026 14:16:30 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Test</title>
+      <link>http://localhost:1313/seite-zwei/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/seite-zwei/</guid>
+      <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Test&lt;/strong&gt;&#xA;Das ist ein Test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://localhost:1313/lorem-ipsum/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lorem-ipsum/</guid>
+      <description>&lt;h1 id=&#34;lorem-ipsum&#34;&gt;Lorem Ipsum&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dolor-sit-amet&#34;&gt;Dolor Sit Amet&lt;/h2&gt;&#xA;&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 10 Feb 2026 14:16:30 +0100</pubDate>
